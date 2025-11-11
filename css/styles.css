@@ -231,10 +231,10 @@ body {
   background-color: lavender;
 }
 #participant-10 .profile-photo {
-  background-image: url("../images/participant-photo.png");
+  background-image: url("../images/jack-profile.jpg");
 }
 #participant-10 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "Chutikarn Kintorn";
 }
 #participant-10 .participant-quote::before {
   /* content: "Your inspirational quote here." */
